@@ -106,4 +106,3 @@ Built with a modern chat interface (HTML/CSS) + a Python backend (Flask) to hand
 This chatbot project is a simple, clean interface layered over a large-language-model backend. It’s meant as a starting point — you can build on it, customise it, extend it for your use case.
 
 ---
-
