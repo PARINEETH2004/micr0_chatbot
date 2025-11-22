@@ -21,7 +21,8 @@ Built with a modern chat interface (HTML/CSS) + a Python backend (Flask) to hand
 ## Demo
 
 > A screenshot of the interface:
-> <img width="1839" height="945" alt="Screenshot 2025-10-01 070629" src="https://github.com/user-attachments/assets/4228ffd6-e4ff-4762-a5ee-95b134b6ae43" />
+> <img width="1839" height="945" alt="Screenshot 2025-10-01 070629" src="<img width="893" height="578" alt="image" src="https://github.com/user-attachments/assets/49fe5843-9989-419a-b9f1-df3347beed18" />
+" />
 
 
 ---
